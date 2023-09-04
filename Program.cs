@@ -10,7 +10,7 @@ namespace CSharp_Bai2
     {
         static void Main(string[] args)
         {
-            Console.Write("Nhap ten cua ban: ");
+            Console.Write("Nhap ten ban: ");
             string ten = Console.ReadLine();
             Console.WriteLine("Hello {0}!", ten);
             Console.WriteLine("Hello {0}!", ten);
